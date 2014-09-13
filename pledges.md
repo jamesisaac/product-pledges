@@ -63,7 +63,7 @@ interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
   at which they were a member.
   
   
-## Motvation
+### Motvation
 
 As a user, investing time and effort into a new web-service can be quite
 difficult when there's no indication whether the service will still be running
