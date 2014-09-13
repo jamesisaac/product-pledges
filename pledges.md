@@ -9,7 +9,10 @@ These pledges can be made to the users of a web-service, to provide them with a
 level of reassurance about certain key operating principles.  Instead of
 needing to carefully analyse marketing copy, they'll be able to, at a glance,
 understand that the services are following a set of mutually agreeable
-guidelines.  It's recommended to show commitment to these pages, along with a
+guidelines.
+
+A service provider can commit to as many or as few of these pledges as they
+desire.  It's recommended to show commitment to these pages, along with a
 link to the homepage, somewhere easily visible by new users.
 
 An endemic problem for the users of web-services provided by startups is their
@@ -61,23 +64,6 @@ interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
 - Sites offering this pledge MUST keep a publicly accessible history of, as
   described above, what dates users can expect service until based on the time
   at which they were a member.
-  
-  
-### Motvation
-
-As a user, investing time and effort into a new web-service can be quite
-difficult when there's no indication whether the service will still be running
-a month from now.
-
-Whether it's in final negotiations of an *acqui-hire* which will see the team
-transferred and product closed down (e.g. photo management startups Divvyshot
-and Snapjoy), or on the verge of collapsing from an unsustainable business 
-model (e.g. photo management startup Everpix), a service closing its doors
-with zero notice is extremely unhelpful to its users.
-
-By guarunteeing a certain ongoing amount of service, barring exceptionally
-unforeseen circumstances, users can be given a level of confidence regarding
-the sustainability of the service they're becoming involved with.
 
 
 2. Safe personal data
