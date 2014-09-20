@@ -1,6 +1,8 @@
 Introduction
 ------------
 
+*These pledges are currently a DRAFT, and subject to change.*
+
 The following are a set of independent pledges, which can be committed to by
 web-service providers who value creating high-quality, ethical and sustainable
 products, over quick profits and acquisitions at the expense of their userbase.
