@@ -1,5 +1,4 @@
-Introduction
-------------
+## Introduction
 
 *These pledges are currently a DRAFT, and subject to change.*
 
@@ -37,8 +36,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
 interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
 
 
-1. Long-term service (X years)
-------------------------------
+## 1. Long-term service (X years)
 
 - The core value proposition of the service MUST be available for the next X
   years, for any users who signed up during, or before, the commitment was in
@@ -68,8 +66,7 @@ interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
   at which they were a member.
 
 
-2. Personal data integrity
---------------------------
+## 2. Personal data integrity
 
 - Personal data MUST NOT be sold to third parties.
 
@@ -102,8 +99,7 @@ interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
   MUST NOT be retracted within the period of that pledge.
 
 
-3. No data lock-in
-------------------
+## 3. No data lock-in
 
 - Data MUST be exportable in a human-readable format (e.g. formatted html).
 
@@ -124,8 +120,7 @@ interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
   MUST NOT be retracted within the period of that pledge.
 
   
-4. Transparent subscription pricing
------------------------------------
+## 4. Transparent subscription pricing
 
 - Users MUST be offered a fair way to evaluate the service - either via a free
   trial, or a money-back guarantee period.
@@ -148,8 +143,7 @@ interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
   on new users.
 
 
-5. Privacy-first
-----------------
+## 5. Privacy-first
 
 - All personal data entered into the system (including user profiles) MUST be
   private by default; only becoming accessible by others through opt-in 
